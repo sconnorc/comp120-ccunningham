@@ -1,0 +1,7 @@
+<% @newMessages.reverse.each do |message| %>
+	$("div").first().before($("<div class='message'><div class='content'><%= message.content %></div><div class='meta'><b><%= message.username %></b>, submitted <%= time_ago_in_words(message.updated_at) %> ago.</div></div>").fadeIn());
+<% end %>
+
+<% @last = Message.last.id %>
+
+$("#lastMessage").text(<%=@last%>);

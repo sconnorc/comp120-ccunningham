@@ -1,0 +1,4 @@
+ios|From iOS app
+android|From Android app
+web|From default web app
+unknown|From an unknown source
