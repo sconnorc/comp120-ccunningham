@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8264CDF3-491B-4168-9471-26F7BD3BDE67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Project 3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>23FBE2B6-BF80-4B1C-B756-04487414CD8D</key>
+		<string>https://github.com/tuftsdev/comp120-ccunningham.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Project 3/Project 3.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>23FBE2B6-BF80-4B1C-B756-04487414CD8D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tuftsdev/comp120-ccunningham.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>23FBE2B6-BF80-4B1C-B756-04487414CD8D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>23FBE2B6-BF80-4B1C-B756-04487414CD8D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>COMP120</string>
+		</dict>
+	</array>
+</dict>
+</plist>

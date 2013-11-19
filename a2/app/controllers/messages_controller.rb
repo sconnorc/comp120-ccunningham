@@ -14,9 +14,11 @@ class MessagesController < ApplicationController
   def create
 	@message = Message.new(message_params)
 	if @message.save
-      render :nothing => true
+      render :json => {:status => :ok}
+      #successful json
   	else
-  	  render :nothing => true
+  	  render :json => {:status => :error}
+      #error json
   	end
   end
 
